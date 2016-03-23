@@ -1,0 +1,94 @@
+﻿body{background-color:Silver;
+    margin:0;
+    overflow:auto;
+}       
+        .div_1,.div_2,.div_3
+        {
+            background-color:White;
+            box-shadow:0 0 5px #000;
+            padding:30px 45px;
+            margin:30px;           
+        }
+         div.div_1
+        {
+            margin-top:110px;
+        }
+        p{text-indent:2em}        
+        header
+        {
+            height:80px;
+            width :100%;
+            background-color:#999;
+            top: 0;
+            position:fixed;
+        }
+        #header_img
+        {
+            float:left;
+            max-height: 70px;
+            margin:10px 40px 3px 40px;
+        }
+        #header_ul
+        {
+            display:inline-block;       
+            float:right; 
+            list-style:disc;
+        } 
+        #header_ul li
+        {
+            float:left;
+            margin-left:30px;
+        }
+        #header_ul li a
+        {
+            margin-right:1em;
+            color:White;
+            direction:none;
+        }
+        h3,span{color:#999}
+        table{width:100%}
+        table th
+        {
+            background-color:#999966;
+        }
+        .td1{text-align:right;}
+        input.submit
+        {
+            width:100%;
+            background-color:Blue;
+            height:35px;
+            border-bottom-style:groove;
+            font-size:20px;
+            margin-top:10px;
+        }
+        .footer{background-color:Black;height:70px;padding-top:10px;}
+        .footer p{color:White;text-align:center;}       
+        .right
+        {
+            font-size:13px;
+            background-color:White;
+            box-shadow:0 0 5px #000;
+            padding:20px;
+            margin:0 30px 30px 30px; 
+            width:350px;
+            height:460px;
+            display:inline;
+            float:right;
+        }
+        .left{margin-right:420px;}
+        .picture
+        {
+            width:100px;
+            height:90px;
+            padding:10px;
+            margin:10px;
+            border-color:Black;
+            border-style:solid;
+            border-width:1px;
+            float:left;
+            position:position;
+        }
+        .img
+        {
+            overflow:auto;
+        }
